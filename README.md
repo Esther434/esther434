@@ -1,80 +1,62 @@
-#📊 Retail Store Sales Dashboard (Excel)
-
-A 2019 Sales Analysis Dashboard for Strategic Business Insights
-📝 Overview
-This project presents an interactive Retail Store Sales Dashboard, developed using Microsoft Excel, 
-to visualise and analyse key performance indicators (KPIS) from retail sales data for the year 2019. 
-The dashboard supports business stakeholders in identifying trends, monitoring performance, and making data-informed decisions.
-
-❓ Business Questions Answered
-This dashboard was built to answer the following key questions:
-
-What is the total sales revenue, profit earned, and quantity of products sold in 2019?
-
-Which products generated the highest sales, and which ones performed the worst?
-
-Which states contributed the most to profits, and which ones recorded significant losses?
-
-How did sales fluctuate throughout the year? Are there noticeable trends or seasonal patterns?
-
-Which shipping modes were most commonly used, and how does their usage compare?
-
-Which customers and regions contributed the most to overall profitability?
-
-How did each customer segment (Consumer, Corporate, Home Office) perform in terms of sales and profit?
-
-🧹 Data Cleaning and Preparation
-To ensure the accuracy and integrity of the analysis, the dataset underwent several data cleaning and preprocessing steps:
-
-✅ Text to Columns: Applied to separate combined data fields for better structure.
-
-🔍 Consistency Checks: Corrected inconsistent entries across product categories, regions, and customer segments.
-
-⚠️ Blank Values: Reviewed and handled missing or blank records where necessary.
-
-🔁 Duplicate Removal: Identified and removed duplicate entries to prevent inaccurate aggregation.
-
-📅 Date Formatting: Converted date fields from General to Date/Time format for proper time-based filtering.
-
-🔢 Numerical Conversion: Reformatted key numerical columns (e.g., Sales, Profit, Quantity) from General to Number format to support calculations and visualizations.
 
 
-💡 Key Features
-Interactive Slicers for filtering by state, quarter, and customer segment.
+# 📊 Retail Store Sales Dashboard (Excel)
 
-KPIS Panel showing Total Sales, Profit, and Quantity.
+## 📝 Overview  
+This project showcases an interactive Retail Store Sales Dashboard built using Microsoft Excel. It analyzes 2019 retail sales data to help stakeholders monitor performance, identify trends, and make data-driven decisions.
 
-Top and Bottom Products by sales and profitability.
+---
 
-Profit by State visualisations to highlight geographic trends.
+## ❓ Business Questions Answered
 
-Shipping Mode Analysis by frequency and preference.
+- What was the total sales revenue, profit, and quantity of products sold in 2019?  
+- Which products generated the highest and lowest sales?  
+- Which states contributed most to profits and which recorded losses?  
+- How did sales fluctuate throughout the year—are there seasonal trends?  
+- Which shipping modes were most frequently used?  
+- Which customers and regions were the most profitable?  
+- How did each customer segment (Consumer, Corporate, Home Office) perform in sales and profit?
 
-Monthly Sales Trend to reveal seasonal performance.
+---
 
-Top Profitable Customers with bar ranking.
+## 🧹 Data Cleaning and Preparation
 
-Regional and Segment Breakdown for deep comparative insights.
+- **Text to Columns**: Split combined data fields for structure.  
+- **Consistency Checks**: Standardized product categories, regions, and segments.  
+- **Blank Values**: Reviewed and handled missing data.  
+- **Duplicate Removal**: Removed repeated entries.  
+- **Date Formatting**: Converted date fields for proper filtering.  
+- **Numerical Conversion**: Reformatted key figures for analysis.
 
+---
 
-📊 Tools Used
-Microsoft Excel
+## 💡 Key Features
 
-Pivot Tables
+- Interactive slicers for filtering by state, quarter, and customer segment  
+- KPI panel showing Total Sales, Profit, and Quantity  
+- Top and Bottom Product analysis  
+- Geographic Profit Visualization by state  
+- Shipping Mode Analysis (frequency and preference)  
+- Monthly Sales Trend Analysis  
+- Top Profitable Customers  
+- Regional and Segment Performance Breakdown
 
-Slicers
+---
 
-Bar, Line, and Pie Charts
+## 📊 Tools Used
 
-Conditional Formatting
+- Microsoft Excel  
+- Pivot Tables  
+- Slicers  
+- Bar, Line, and Pie Charts  
+- Conditional Formatting
 
-📷 Dashboard Preview
+---
 
-A snapshot of the dashboard summarizing retail performance across various dimensions.
+## 📷 Dashboard Preview
 
-👤 Author
-Orjiude Esther Obianuju
-Data Analyst | Excel • Power BI • SQL • Python
-📍 Lagos, Nigeria
-🔗 www.linkedin.com/in/orjiude-esther 
+- 👤 Author
+- Orjiude Esther Obianuju
+- Data Analyst | Excel • Power BI • SQL • Python
+- 🔗 www.linkedin.com/in/orjiude-esther 
 
