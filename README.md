@@ -56,7 +56,7 @@ identify trends, and make data-driven decisions.
 ---
 
 ## 📷 Dashboard Preview
-![Retail Sales Dashboard](order-dashboard.png)
+![Retail Sales Dashboard](order-dashboard.PNG)
 
 - 👤 Author
 - Orjiude Esther Obianuju
