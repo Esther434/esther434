@@ -3,7 +3,9 @@
 # 📊 Retail Store Sales Dashboard (Excel)
 
 ## 📝 Overview  
-This project showcases an interactive Retail Store Sales Dashboard built using Microsoft Excel. It analyzes 2019 retail sales data to help stakeholders monitor performance, identify trends, and make data-driven decisions.
+This project showcases an interactive Retail Store Sales Dashboard built using Microsoft Excel. 
+It analyzes 2019 retail sales data to help stakeholders monitor performance, 
+identify trends, and make data-driven decisions.
 
 ---
 
