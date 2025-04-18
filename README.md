@@ -4,7 +4,7 @@
 
 ## 📝 Overview  
 This project showcases an interactive Retail Store Sales Dashboard built using Microsoft Excel. 
-It analyzes 2019 retail sales data to help stakeholders monitor performance, 
+It analyses 2019 retail sales data to help stakeholders monitor performance, 
 identify trends, and make data-driven decisions.
 
 ---
@@ -24,7 +24,7 @@ identify trends, and make data-driven decisions.
 ## 🧹 Data Cleaning and Preparation
 
 - **Text to Columns**: Split combined data fields for structure.  
-- **Consistency Checks**: Standardized product categories, regions, and segments.  
+- **Consistency Checks**: Standardised product categories, regions, and segments.  
 - **Blank Values**: Reviewed and handled missing data.  
 - **Duplicate Removal**: Removed repeated entries.  
 - **Date Formatting**: Converted date fields for proper filtering.  
@@ -36,8 +36,8 @@ identify trends, and make data-driven decisions.
 
 - Interactive slicers for filtering by state, quarter, and customer segment  
 - KPI panel showing Total Sales, Profit, and Quantity  
-- Top and Bottom Product analysis  
-- Geographic Profit Visualization by state  
+- Top and Bottom Product Analysis  
+- Geographic Profit Visualisation by state  
 - Shipping Mode Analysis (frequency and preference)  
 - Monthly Sales Trend Analysis  
 - Top Profitable Customers  
@@ -56,6 +56,7 @@ identify trends, and make data-driven decisions.
 ---
 
 ## 📷 Dashboard Preview
+![Retail Sales Dashboard](order dashboard.PNG)
 
 - 👤 Author
 - Orjiude Esther Obianuju
